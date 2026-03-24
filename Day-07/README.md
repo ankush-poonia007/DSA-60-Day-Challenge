@@ -13,12 +13,6 @@
 - Time Complexity: O(Optimized)
 - Space Complexity: O(Minimized)
 
-
----
-## ✅ Verification
-![Test Case Result](../assets/Day07_26Feb(2).png)
-*Passed all test cases on GeeksforGeeks.*
-
 ---
 ## ✅ Verification
 ![Test Case Result](../assets/Day07_25Feb (3).png)
