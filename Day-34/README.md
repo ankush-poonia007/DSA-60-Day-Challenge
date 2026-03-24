@@ -1,0 +1,20 @@
+# Day 34: Course Schedule I
+
+## Details
+- Difficulty: Medium
+- Pattern: Hashmap + DFS [cite: 6]
+- Challenge: GeeksforGeeks 60-Day Challenge [cite: 2]
+
+## Problem Logic
+- This problem was solved using the Hashmap + DFS technique[cite: 9].
+- Logic focused on optimizing the approach based on the Medium difficulty constraints.
+
+## Complexity Analysis
+- Time Complexity: O(Optimized)
+- Space Complexity: O(Minimized)
+
+
+---
+## ✅ Verification
+![Test Case Result](../assets/Day34_24March.png)
+*Passed all test cases on GeeksforGeeks.*
