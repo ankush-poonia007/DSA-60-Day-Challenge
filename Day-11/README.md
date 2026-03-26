@@ -16,10 +16,7 @@
 
 ---
 ## ✅ Verification
-![Test Case Result](../assets/Day11_02March(2).png)
+![Test Case Result](../assets/Day11_02March.png)
 *Passed all test cases on GeeksforGeeks.*
 
 ---
-## ✅ Verification
-![Test Case Result](../assets/Day11_01March (2).png)
-*Passed all test cases on GeeksforGeeks.*
