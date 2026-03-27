@@ -15,5 +15,5 @@
 
 ---
 ## ✅ Verification
-![Test Case Result](../assets/Day01_19Feb(1).png)
+![Test Case Result](../assets/Day01_19Feb.png)
 *Passed all test cases on GeeksforGeeks.*
