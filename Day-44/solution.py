@@ -21,3 +21,12 @@ class Solution:
                 c -= 1
                 
         return result
+    
+# Example usage:
+solution = Solution()
+matrix = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+]
+print(solution.diagView(matrix))  # Output: [1, 2, 4, 3, 5, 7, 6, 8, 9]
