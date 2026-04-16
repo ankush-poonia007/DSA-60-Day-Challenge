@@ -1,4 +1,4 @@
-# Day 55: Remove Spaces
+# Day 56: Remove Spaces
 
 ## 🔗 Problem Link
 https://www.geeksforgeeks.org/problems/remove-spaces0142/1
