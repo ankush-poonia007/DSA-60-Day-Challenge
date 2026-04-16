@@ -4,7 +4,7 @@ Structured Data Structures & Algorithms practice — one problem per day, docume
 
 ## 🧠 Why I'm Doing This
 
-I believe the architecture behind AI systems needs to be efficient, not just "smart." [cite_start]As a **B.Tech AI/ML Engineering student**, I recognize that before building complex intelligent systems, I must master the fundamentals they run on. [cite: 2] This challenge is my commitment to building that core efficiency.
+I believe the architecture behind AI systems needs to be efficient, not just "smart." As a **B.Tech AI/ML Engineering student**, I recognize that before building complex intelligent systems, I must master the fundamentals they run on.  This challenge is my commitment to building that core efficiency.
 
 ## 📊 Progress Tracker
 
@@ -72,13 +72,13 @@ I believe the architecture behind AI systems needs to be efficient, not just "sm
 
 ## 🛠️ Key Pattern Vocabulary
 
-[cite_start]Based on my progress, I have categorized the reusable techniques I've mastered: [cite: 7, 8, 9]
+Based on my progress, I have categorized the reusable techniques I've mastered: 
 
-* **Sliding Window**: Applied to substring/subarray problems with distinct character constraints. [cite: 9]
-* **Two Pointers**: Used for sorted array searches and rain water trapping. [cite: 9]
-* **Trees & Graphs**: Extensive use of BFS, DFS, and Post-order traversals. [cite: 9]
-* **Monotonic Stacks**: Leveraged for subarray minimum and contribution-based problems. [cite: 9]
-* **Hashing & Prefix Sums**: Used for XOR subarrays, sum spans, and graph cycles. [cite: 9]
+* **Sliding Window**: Applied to substring/subarray problems with distinct character constraints. 
+* **Two Pointers**: Used for sorted array searches and rain water trapping. 
+* **Trees & Graphs**: Extensive use of BFS, DFS, and Post-order traversals. 
+* **Monotonic Stacks**: Leveraged for subarray minimum and contribution-based problems. 
+* **Hashing & Prefix Sums**: Used for XOR subarrays, sum spans, and graph cycles. 
 
 ## 📂 Folder Structure
 
@@ -91,9 +91,9 @@ Each day in this repository contains:
 
 ## 🔗 Platform & Verification
 
-* [cite_start]**Platform**: GeeksforGeeks 60-Day POTD Challenge powered by **NPCI**. [cite: 2]
-* [cite_start]**Timeline**: Feb 19 – Mar 24, 2026 (Days 1–34). [cite: 4]
+* **Platform**: GeeksforGeeks 60-Day POTD Challenge powered by **NPCI**. 
+* **Timeline**: Feb 19 – Mar 24, 2026 (Days 1–34). 
 * **Verification**: Daily progress is documented on my **LinkedIn** to track approach evolution publicly.
 
 ---
-[cite_start]*“Recognizing the pattern is more valuable than memorizing the code.” [cite: 10]*
+*“Recognizing the pattern is more valuable than memorizing the code.” *
