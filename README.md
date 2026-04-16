@@ -92,7 +92,7 @@ Each day in this repository contains:
 ## 🔗 Platform & Verification
 
 * **Platform**: GeeksforGeeks 60-Day POTD Challenge powered by **NPCI**. 
-* **Timeline**: Feb 19 – Mar 24, 2026 (Days 1–34). 
+* **Timeline**: Feb 19 – April 16, 2026 (Days 1–57). 
 * **Verification**: Daily progress is documented on my **LinkedIn** to track approach evolution publicly.
 
 ---
