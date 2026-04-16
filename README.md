@@ -74,11 +74,11 @@ I believe the architecture behind AI systems needs to be efficient, not just "sm
 
 [cite_start]Based on my progress, I have categorized the reusable techniques I've mastered: [cite: 7, 8, 9]
 
-* [cite_start]**Hashing & Prefix Sums**: Used for XOR subarrays, sum spans, and graph cycles. [cite: 9]
-* [cite_start]**Sliding Window**: Applied to substring/subarray problems with distinct character constraints. [cite: 9]
-* [cite_start]**Two Pointers**: Used for sorted array searches and rain water trapping. [cite: 9]
-* [cite_start]**Trees & Graphs**: Extensive use of BFS, DFS, and Post-order traversals. [cite: 9]
-* [cite_start]**Monotonic Stacks**: Leveraged for subarray minimum and contribution-based problems. [cite: 9]
+* **Sliding Window**: Applied to substring/subarray problems with distinct character constraints. [cite: 9]
+* **Two Pointers**: Used for sorted array searches and rain water trapping. [cite: 9]
+* **Trees & Graphs**: Extensive use of BFS, DFS, and Post-order traversals. [cite: 9]
+* **Monotonic Stacks**: Leveraged for subarray minimum and contribution-based problems. [cite: 9]
+* **Hashing & Prefix Sums**: Used for XOR subarrays, sum spans, and graph cycles. [cite: 9]
 
 ## 📂 Folder Structure
 
