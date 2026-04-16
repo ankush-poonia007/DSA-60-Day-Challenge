@@ -68,7 +68,7 @@ I believe the architecture behind AI systems needs to be efficient, not just "sm
 | 02  | 20 Feb | Sorting        | Form the Largest Number        | Custom comparator      | ✅     |
 | 01  | 19 Feb | Hashing        | Missing Element in Range       | HashSet lookup         | ✅     |
 
-[cite_start]*(Currently at **57/60** days completed )*
+*(Currently at **57/60** days completed )*
 
 ## 🛠️ Key Pattern Vocabulary
 
