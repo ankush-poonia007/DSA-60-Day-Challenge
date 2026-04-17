@@ -10,29 +10,30 @@ I believe the architecture behind AI systems needs to be efficient, not just "sm
 
 | Day | Date   | Topic          | Problem                        | Pattern Used           | Status |
 |:---:|:-------|:---------------|:-------------------------------|:-----------------------|:------:|
-| 57  | 17 Apr | Sliding Window | Max of all Subarrays of size K | Monotonic Deque        | ✅     |
-| 56  | 16 Apr | Strings        | Implement Atoi                 | State-based Parsing    | ✅     |
-| 55  | 15 Apr | Strings        | Remove Spaces                  | String Sanitization    | ✅     |
-| 54  | 14 Apr | Arrays         | Next Smallest Palindrome       | Mirroring & Carry      | ✅     |
-| 53  | 13 Apr | Matrix         | Toeplitz Matrix                | Neighbor Comparison    | ✅     |
-| 52  | 12 Apr | Arrays         | Count Increasing Subarrays     | Sliding Window + Math  | ✅     |
-| 51  | 11 Apr | Arrays         | Sorted Subsequence (Size 3)    | Prefix/Suffix Arrays   | ✅     |
-| 50  | 10 Apr | Arrays         | Intersection of Sorted Arrays  | Two-Pointers           | ✅     |
-| 49  | 09 Apr | Arrays         | Segregate 0s and 1s            | Two-Pointers           | ✅     |
-| 48  | 08 Apr | Greedy         | Stable Marriage Problem        | Gale-Shapley Algo      | ✅     |
-| 47  | 07 Apr | Greedy         | Huffman Encoding               | Min-Heap + DFS         | ✅     |
-| 46  | 06 Apr | DP             | Target Sum                     | Subset Sum Reduction   | ✅     |
-| 45  | 05 Apr | Bit Magic      | Gray Code                      | Recursive Reflection   | ✅     |
-| 44  | 04 Apr | Matrix         | Print Diagonally               | Anti-diagonal Scan     | ✅     |
-| 43  | 03 Apr | DP             | Painting the Fence             | State-based DP         | ✅     |
-| 42  | 02 Apr | DP             | Consecutive 1's Not Allowed    | Fibonacci DP           | ✅     |
-| 41  | 01 Apr | DP             | Buy Stock with Fee             | State-Machine DP       | ✅     |
-| 40  | 31 Mar | Graphs         | Connect All Houses             | Kruskal's (MST)        | ✅     |
-| 39  | 30 Mar | DP             | Partitions with Difference     | Subset Sum             | ✅     |
-| 38  | 29 Mar | Graphs         | Articulation Point - II        | Tarjan's Algorithm     | ✅     |
-| 37  | 28 Mar | DP             | Chocolates Pickup (Hard)       | 3D DP                  | ✅     |
-| 36  | 27 Mar | Graphs         | Ways to Arrive at Destination  | Dijkstra + DP          | ✅     |
-| 35  | 26 Mar | Graphs         | Minimum Height Roots           | Topological Sort       | ✅     |
+| 58  | 17 Apr | Hashing        | Anagram Palindrome             | Frequency Counting     | ✅    | 
+| 57  | 16 Apr | Sliding Window | Max of all Subarrays of size K | Monotonic Deque        | ✅     |
+| 56  | 15 Apr | Strings        | Implement Atoi                 | State-based Parsing    | ✅     |
+| 55  | 14 Apr | Strings        | Remove Spaces                  | String Sanitization    | ✅     |
+| 54  | 13 Apr | Arrays         | Next Smallest Palindrome       | Mirroring & Carry      | ✅     |
+| 53  | 12 Apr | Matrix         | Toeplitz Matrix                | Neighbor Comparison    | ✅     |
+| 52  | 11 Apr | Arrays         | Count Increasing Subarrays     | Sliding Window + Math  | ✅     |
+| 51  | 10 Apr | Arrays         | Sorted Subsequence (Size 3)    | Prefix/Suffix Arrays   | ✅     |
+| 50  | 09 Apr | Arrays         | Intersection of Sorted Arrays  | Two-Pointers           | ✅     |
+| 49  | 08 Apr | Arrays         | Segregate 0s and 1s            | Two-Pointers           | ✅     |
+| 48  | 07 Apr | Greedy         | Stable Marriage Problem        | Gale-Shapley Algo      | ✅     |
+| 47  | 06 Apr | Greedy         | Huffman Encoding               | Min-Heap + DFS         | ✅     |
+| 46  | 05 Apr | DP             | Target Sum                     | Subset Sum Reduction   | ✅     |
+| 45  | 04 Apr | Bit Magic      | Gray Code                      | Recursive Reflection   | ✅     |
+| 44  | 03 Apr | Matrix         | Print Diagonally               | Anti-diagonal Scan     | ✅     |
+| 43  | 02 Apr | DP             | Painting the Fence             | State-based DP         | ✅     |
+| 42  | 01 Apr | DP             | Consecutive 1's Not Allowed    | Fibonacci DP           | ✅     |
+| 41  | 31 Apr | DP             | Buy Stock with Fee             | State-Machine DP       | ✅     |
+| 40  | 30 Mar | Graphs         | Connect All Houses             | Kruskal's (MST)        | ✅     |
+| 39  | 29 Mar | DP             | Partitions with Difference     | Subset Sum             | ✅     |
+| 38  | 28 Mar | Graphs         | Articulation Point - II        | Tarjan's Algorithm     | ✅     |
+| 37  | 27 Mar | DP             | Chocolates Pickup (Hard)       | 3D DP                  | ✅     |
+| 36  | 26 Mar | Graphs         | Ways to Arrive at Destination  | Dijkstra + DP          | ✅     |
+| 35  | 25 Mar | Graphs         | Minimum Height Roots           | Topological Sort       | ✅     |
 | 34  | 24 Mar | Graphs         | Course Schedule I              | Hashmap + DFS          | ✅     |
 | 33  | 23 Mar | Graphs         | Longest Cycle in a Graph       | Hashmap + Chain        | ✅     |
 | 32  | 22 Mar | BFS            | Rotten Oranges                 | Multi-source BFS       | ✅     |
@@ -68,7 +69,7 @@ I believe the architecture behind AI systems needs to be efficient, not just "sm
 | 02  | 20 Feb | Sorting        | Form the Largest Number        | Custom comparator      | ✅     |
 | 01  | 19 Feb | Hashing        | Missing Element in Range       | HashSet lookup         | ✅     |
 
-*(Currently at **57/60** days completed )*
+*(Currently at **58/60** days completed )*
 
 ## 🛠️ Key Pattern Vocabulary
 
@@ -92,7 +93,7 @@ Each day in this repository contains:
 ## 🔗 Platform & Verification
 
 * **Platform**: GeeksforGeeks 60-Day POTD Challenge powered by **NPCI**. 
-* **Timeline**: Feb 19 – April 16, 2026 (Days 1–57). 
+* **Timeline**: Feb 19 – April 17, 2026 (Days 1–58). 
 * **Verification**: Daily progress is documented on my **LinkedIn** to track approach evolution publicly.
 
 ---
