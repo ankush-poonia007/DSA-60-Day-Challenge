@@ -10,6 +10,7 @@ I believe the architecture behind AI systems needs to be efficient, not just "sm
 
 | Day | Date   | Topic          | Problem                        | Pattern Used           | Status |
 |:---:|:-------|:---------------|:-------------------------------|:-----------------------|:------:|
+| 60  | 19 Apr | Math           | Check for Power                | Iterative Logarithmic  | ✅     |
 | 59  | 18 Apr | Greedy/DP      | Flip to Maximize 1s            | Kadane's Algorithm     | ✅     | 
 | 58  | 17 Apr | Hashing        | Anagram Palindrome             | Frequency Counting     | ✅     | 
 | 57  | 16 Apr | Sliding Window | Max of all Subarrays of size K | Monotonic Deque        | ✅     |
@@ -70,7 +71,7 @@ I believe the architecture behind AI systems needs to be efficient, not just "sm
 | 02  | 20 Feb | Sorting        | Form the Largest Number        | Custom comparator      | ✅     |
 | 01  | 19 Feb | Hashing        | Missing Element in Range       | HashSet lookup         | ✅     |
 
-*(Currently at **59/60** days completed )*
+*(Currently at **60/60** days completed )*
 
 ## 🛠️ Key Pattern Vocabulary
 
@@ -94,8 +95,8 @@ Each day in this repository contains:
 ## 🔗 Platform & Verification
 
 * **Platform**: GeeksforGeeks 60-Day POTD Challenge powered by **NPCI**. 
-* **Timeline**: Feb 19 – April 18, 2026 (Days 1–59). 
+* **Timeline**: Feb 19 – April 19, 2026 (Days 1–60). 
 * **Verification**: Daily progress is documented on my **LinkedIn** to track approach evolution publicly.
-
+    
 ---
 *“Recognizing the pattern is more valuable than memorizing the code.” *
